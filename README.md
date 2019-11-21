@@ -1,2 +1,3 @@
-# testme
-Testing platform
+# Testme
+# Aplikacja do ćwiczenia testów automatycznych.
+
